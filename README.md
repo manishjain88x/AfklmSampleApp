@@ -1,2 +1,2 @@
-# AfklmSampleApp
-App is showing current and past booking and its details.
+# klmSampleApp
+The app shows current and past bookings and their details.
